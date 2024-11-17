@@ -19,13 +19,13 @@ The Book Exchange Project is an application that allows users to exchange books 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bookExchange.git
+   git clone https://github.com/yourusername/BookExchangeApp.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd bookExchange
+   cd BookExchangeApp
    ```
 
 3. Install the dependencies:
